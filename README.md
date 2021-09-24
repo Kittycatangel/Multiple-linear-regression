@@ -11,3 +11,5 @@ This means that as LSTAT (“% of lower status of the population”) increases, 
 
 Build a multiple linear regression based on two features: RM & LSTAT to predic the price of houses wth R- squared of 0.6162 and mean squred error of 36.4.
 
+![image](https://user-images.githubusercontent.com/53411455/134728881-0e61e395-9f74-428b-85dd-11a25a2bce80.png)
+ Relationship between price and  LSTAT
